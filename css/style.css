@@ -1,0 +1,99 @@
+@charset "utf-8";
+.container div h3 {
+	width: 325px;
+	height: 250px;
+	float: left;
+	position: relative;
+	background-color: #73338F;
+	margin-bottom: 40px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 44px;
+	border-radius: 11px;
+	text-align: center;
+	padding-bottom: 51px;
+	padding-right: 10px;
+	padding-top: 100px;
+}
+body {
+	font-family: italianno;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.container .insta {
+	float: left;
+	width: 347px;
+	height: 251px;
+	background-color: #AB6AC8;
+	padding-left: 108px;
+	padding-top: 45px;
+	padding-right: 47px;
+	padding-bottom: 50px;
+	margin-right: 7px;
+	margin-left: 125px;
+	margin-bottom: 71px;
+	border-radius: 15px;
+}
+.container .whats {
+	float: right;
+	background-color: #25D366;
+	width: 300px;
+	height: 250px;
+	margin-right: 125px;
+	margin-left: 7px;
+	padding-top: 41px;
+	padding-bottom: 78px;
+	padding-left: 92px;
+	padding-right: 90px;
+	text-align: center;
+	border-radius: 15px;
+}
+
+
+.container .bloco-2 {
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #AB6AC8;
+	width: 440px;
+	height: 260px;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-family: snippet;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	border-radius: 10px;
+	margin-bottom: 42px;
+}
+body footer {
+	clear: both;
+	text-align: center;
+	text-decoration: underline;
+	margin-left: 0px;
+	margin-top: 14px;
+	padding-right: 0px;
+	border-top: 23px solid #AB6AC8;
+	background-color: #C99DDC;
+}
+.pagamento {
+	margin-right: 689px;
+}
+
+.institucional {
+	float: left;
+	padding-left: 158px;
+}
+
+body h1 {
+	text-align: center;
+	color: #CF2E43;
+	font-family: italianno;
+	font-style: normal;
+	font-weight: 400;
+	margin-bottom: 75px;
+}
