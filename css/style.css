@@ -4,7 +4,7 @@
 	height: 250px;
 	float: left;
 	position: relative;
-	background-color: #73338F;
+	background-color: #AB6AC8;
 	margin-bottom: 40px;
 	margin-left: 15px;
 	margin-right: 15px;
@@ -15,10 +15,32 @@
 	padding-right: 10px;
 	padding-top: 100px;
 }
+.container div h3:hover  {
+	width: 325px;
+	height: 250px;
+	float: left;
+	position: relative;
+	background-color: #73338F;
+	margin-bottom: 40px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 44px;
+	border-radius: 11px;
+	text-align: center;
+	padding-bottom: 51px;
+	padding-right: 10px;
+	padding-top: 100px;
+	color: #2DD8AB;
+}
+body h1 {
+
+}
+
 body {
 	font-family: italianno;
 	font-style: normal;
 	font-weight: 400;
+	background-color: #DE8ED9;
 }
 
 .container .insta {
@@ -73,27 +95,79 @@ body {
 body footer {
 	clear: both;
 	text-align: center;
-	text-decoration: underline;
 	margin-left: 0px;
 	margin-top: 14px;
+	border: 10px solid #DE8ED9;
+	background-color: #AB6AC8;
+	margin-right: 0px;
+	padding-bottom: 0px;
+	border-radius: 35px;
+	padding-top: 51px;
+}
+.conheca {
+	padding-right: 70px;
+	padding-left: 70px;
+	margin-left: 0px;
+	text-align: center;
+	float: left;
+	margin-right: 45px;
+}
+.desenvolvido {
 	padding-right: 0px;
-	border-top: 23px solid #AB6AC8;
-	background-color: #C99DDC;
+	padding-top: 65px;
+	clear: both;
 }
-.pagamento {
-	margin-right: 689px;
-}
+
+
+
 
 .institucional {
 	float: left;
-	padding-left: 158px;
+	padding-left: 85px;
+	text-align: center;
+	padding-right: 70px;
 }
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: -476px;
+	margin-left: 499px;
+    
+}
+
+
+.navbar-nav.mr-auto .nav-item.active .nav-link:hover {
+	background-color: #73338F;
+	border-radius: 9px;
+	color: #2DD8AB;
+
+}
+
+/* h1 {
+    border: #73338F solid 2px;
+    text-shadow: yellow 20px;
+    color: red;
+} */
 
 body h1 {
 	text-align: center;
-	color: #CF2E43;
-	font-family: italianno;
-	font-style: normal;
+	color: #2DD8AB;
+	font-family: italianno, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-weight: 400;
 	margin-bottom: 75px;
+    border: #73338F solid 2px;
+    font-style: italic;
+    
+
+
+}
+.contato {
+	margin-left: 3px;
+	text-align: center;
+	float: left;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+
 }
